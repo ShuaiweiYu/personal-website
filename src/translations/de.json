@@ -1,0 +1,114 @@
+{
+  "introduction": {
+    "content": "Servus! Mein Name ist Shuaiwei, willkommen auf meiner persönlichen Website! Ich hoffe, Sie finden hier etwas Interessantes. Ich bin in einer kleinen Stadt in China geboren, dort aufgewachsen und habe meine Grundausbildung abgeschlossen. Obwohl es nur eine kleine Stadt ist, gibt es dennoch viel zu sehen. Später ging ich für die Universität nach Hangzhou und beschloss dort auch, im Ausland zu studieren, um meinen Horizont zu erweitern und ein völlig neues Leben anzustreben."
+  },
+  "skills": {
+    "title": "Was kann ich machen?",
+    "lang": {
+      "title": "Sprachkenntnisse",
+      "chinese": "Chinesisch: Muttersprachlich",
+      "english": "Englisch: Verhandlungssicher",
+      "german": "Deutsch: Verhandlungssicher"
+    },
+    "it": {
+      "title": "IT Kenntnisse"
+    },
+    "frameworks": {
+      "title": "Program Frameworks"
+    },
+    "other": {
+      "title": "Andere"
+    }
+  },
+  "info": {
+    "studies": {
+      "title": "Über mein Studium",
+      "time1": "01/2019 - 02/2020",
+      "info1": "Studienkolleg München – T-Kurs",
+      "time2": "04/2020 - 09/2020",
+      "info2": "Technische Universität München – MINT-Orientierungssemester",
+      "time3": "10/2020 - 04/2023",
+      "info3": "Technische Universität München — Wirtschaftsinformatik B.Sc.",
+      "time4": "10/2023 - jetzt",
+      "info4": "Technische Universität München — Wirtschaftsinformatik B.Sc."
+    },
+    "works": {
+      "title": "Meine Berufserfahrung",
+      "time1": "10/2023 - jetzt",
+      "info1": "LexCom Informationssysteme GmbH - Full-Stack developer Werkstudent",
+      "time2": "06/20220 - 09/2023",
+      "info2": "Technische Universität München - Webseiten Hiwi",
+      "time3": "08/2022 - 12/2022",
+      "info3": "Bayerische Motoren Werke AG (BMW) - Project Management Werkstudent",
+      "time4": "2023/04 - 2023/09",
+      "info4": "Technische Universität München - Tutor für Grundlagen: Rechnernetze und Verteilte Systeme (DE)",
+      "time5": "2021/10 - 2022/04",
+      "info5": "Technische Universität München - Tutor für Praktikum: Grundlage der Programmierung (EN)",
+      "time6": "2021/04 - 2021/9",
+      "info6": "Technische Universität München - Tutor für IT und Gesellschaft (EN)"
+    }
+  },
+  "navigations": {
+    "home": "Home",
+    "projects": "Projekte",
+    "contact": "Kontakt",
+    "language": "Sprache",
+    "cv": "Lebenslauf"
+  },
+  "thumbUpBox": {
+    "click": "Klicken Sie, um zu mögen",
+    "likeInfo": "erhaltenes Mögen:"
+  },
+  "contact": {
+    "title": "Wie können Sie mit mir in Kontakt treten?",
+    "linkedin": "Linkedin",
+    "wechat": "Wechat",
+    "email": "E-Mail Addresse: ",
+    "show-email": "Schreiben Sie mir eine E-Mail",
+    "hide-email": "E-Mail verstecken",
+    "email-info": "Bitte verwenden Sie das unten stehende E-Mail-Formular, um mir eine E-Mail zu senden. Ich werde mich so schnell wie möglich nach Erhalt Ihrer E-Mail bei Ihnen melden.",
+    "email-name-info": "Bitte geben Sie Ihren Namen ein",
+    "email-name-placeholder": "Max Mustermann",
+    "email-address-info": "Geben Sie bitte Ihre Email-Adresse ein",
+    "email-address-placeholder": "Mustermann{'@'}example.com",
+    "email-content-info": "Bitte geben Sie Ihren E-Mail-Inhalt ein",
+    "email-content-placeholder": "Hallo, ...",
+    "email-send": "E-Mail senden",
+    "email-sent": "E-Mail gesendet",
+    "email-sent-error": "Etwas ist schief gelaufen:",
+    "email-already-sent": "Sie haben bereits eine E-Mail gesendet"
+  },
+  "projects": {
+    "info": "Nachfolgend finden Sie einige Projekte, an denen ich gearbeitet habe.",
+    "academic": "Akademische Projekte",
+    "personal": "Persönliches Projekt",
+    "industry": "Praktikumsprojekt",
+    "academic-projects-1": {
+      "title": "Eine kurze Studie zur Entwicklung der prädiktiven Prozessüberwachung",
+      "type": "Seminar Paper",
+      "content": "Predictive Process Monitoring (PPM) ist ein leistungsstarkes Werkzeug der Geschäftslogik und findet in Industrie und Wissenschaft immer mehr Beachtung. Aufgrund des großen Interesses an diesem Thema werden kontinuierlich zahlreiche Arbeiten veröffentlicht. Daher ist es unabdingbar, eine Literaturrecherche zur prädiktiven Prozessüberwachung durchzuführen. Das Hauptziel dieser Arbeit besteht darin, die aktuelle Situation und den algorithmischen Trend der prädiktiven Prozessüberwachung zu untersuchen, um mögliche Forschungslücken identifizieren zu können. Die Zielerreichung erfolgt durch eine systematische Literaturrecherche für den Suchzeitraum 2018 – 2022 zum Thema prädiktive Prozessüberwachung. Die 263 abgerufenen Artikel wurden einer mehrstufigen Filterung unterzogen und eine endgültige Liste mit 32 Artikeln ausgewählt. Die aus den Arbeiten subtrahierten Daten werden dann zur Analyse und Zusammenfassung verwendet. Das Endergebnis zeigt den aktuellen Trend auf und identifiziert die Forschungslücken im PPM."
+    },
+    "academic-projects-2": {
+      "title": "Verbesserte automatische Generierung von Geschäftsprozessmodellen aus natürlichsprachigen Texten unterschiedlicher Komplexität",
+      "type": "Bachelorarbeit",
+      "content": "Die Business Process Modeling Notation (BPMN) ist ein wichtiges Werkzeug zur Strukturierung und Visualisierung von Prozessen. Der Einsatz einer solchen Technologie kann sich positiv auf die Ausführung und Verbesserung der Arbeitsabläufe eines Unternehmens auswirken. Allerdings erfordert die Generierung von BPMN-Modellen domänenspezifisches Wissen und ist oft sehr zeitaufwändig, während die Einführung eines Ansatzes, der Prozessmodelle automatisch identifiziert und extrahiert, den Zeit- und Arbeitsaufwand bei der Prozessmodellierung deutlich reduzieren kann. Mit Hilfe der NLP-Technologie können Forscher nun Tools zur Analyse von Geschäftsprozessbeschreibungen und Tools zur automatischen Extraktion relevanter BPMN-Informationen entwickeln. In diesem Artikel verwendet der Autor Python und die Open-Source-Bibliothek Spacy, um mithilfe der neuesten Technologie den fortschrittlichsten Algorithmus zur automatischen BPMN-Modellgenerierung zu rekonstruieren und so die Erkennungsgenauigkeit zu verbessern."
+    },
+    "academic-projects-3": {
+      "title": "WS2021/22 Kurs „Business Analytics und Machine Learning“ an der Technischen Universität München – Analytics Cup",
+      "type": "Kursprojekt",
+      "content": "Der Analytics Cup ist ein Kursprojekt des Studiengangs Business Analytics und Machine Learning der Technischen Universität München in Zusammenarbeit mit Siemens. Ziel dieses Projekts ist es, das Ergebnis der Kaufentscheidungen potenzieller Kunden vorherzusagen. Wir verwenden den Entscheidungsbaumalgorithmus, um unser Modell zu trainieren. Das Projekt basiert auf Python und weist eine hohe Genauigkeit auf."
+    },
+    "industry-projects-1": {
+      "title": "BMW News",
+      "content": "Als Student bei BMW wurde ich damit beauftragt, eine Nachrichtenanwendung für interne Tests zu entwickeln. Sein Zweck besteht darin, die kommerzielle und technische Machbarkeit dieser Art von Nachrichtenaggregator zu testen. Die Anwendung ist mit Java auf Android-Basis erstellt und kann nicht nur auf Android Automotive, sondern auch auf normalen Android-Smartphones installiert werden. Die Anwendung nutzt den von Google bereitgestellten Dienst „NewsAPI“, um Nachrichtendaten aus verschiedenen Quellen zu beziehen."
+    },
+    "industry-projects-2": {
+      "title": "PL24-upload",
+      "content": "Als ich bei LexCom Informationsystem arbeitete, habe ich selbstständig einen Full-Stack-Microservice entwickelt, der es Benutzern ermöglicht, mit ihren Mobiltelefonen Dokumente zu Benutzerbestellungen hochzuladen und in der Cloud zu speichern. Dieser Microservice kann auch mit anderen Microservices interagieren, um das Projekterlebnis zu verbessern. Das Projekt verwendet SpringBoot als Backend und React.js als Frontend."
+    },
+    "personal-projects-1": {
+      "title": "Focus List",
+      "content": "Dies ist eine Front-End-To-Do-Webseite basierend auf Vue.js, die auch die Pomodoro-Funktion implementiert. Um Benutzern zu helfen, Aufgaben besser zu erledigen. Für Einzelheiten besuchen Sie bitte die folgende URL: <a href=\"https://shuaiweiyu.github.io/focuslist/\" target=\"https://shuaiweiyu.github.io/focuslist/\"> https: //shuaiweiyu .github.io/focuslist/ </a>"
+    }
+  }
+}

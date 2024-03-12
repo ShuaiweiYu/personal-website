@@ -1,0 +1,114 @@
+{
+  "introduction": {
+    "content": "Hi here! My name is Shuaiwei, welcome to my personal website! Hope you can find something interesting here. I'm born in a little city in China, and that is where I grew up and finished my basic education. Even though it is only a little city, there are still a lot to see. Later, I went to Hangzhou for University and that is also when I decided to study abroad to broaden my horizon as well as pursuit a brand new life."
+  },
+  "skills": {
+    "title": "What can I do?",
+    "lang": {
+      "title": "Language Skills",
+      "chinese": "Chinese: Native",
+      "english": "English: Fluent",
+      "german": "German: Fluent"
+    },
+    "it": {
+      "title": "IT Skills"
+    },
+    "frameworks": {
+      "title": "Program Frameworks"
+    },
+    "other": {
+      "title": "Other"
+    }
+  },
+  "info": {
+    "studies": {
+      "title": "About my Studies",
+      "time1": "2019/01 - 2020/02",
+      "info1": "Studienkolleg Munich — T course",
+      "time2": "2020/04 - 2020/09",
+      "info2": "Technical University of Munich — MINT orientation semester",
+      "time3": "2020/10 - 2023/04",
+      "info3": "Technical University of Munich — Information system B.Sc.",
+      "time4": "2023/10 - now",
+      "info4": "Technical University of Munich — Information system M.Sc."
+    },
+    "works": {
+      "title": "My Working Experience",
+      "time1": "2023/10 - now",
+      "info1": "LexCom Informationssysteme GmbH - Full-Stack developer Working Student",
+      "time2": "20220/06 - 2023/09",
+      "info2": "Technical University of Munich - Websites Student Assistant",
+      "time3": "2022/08 - 2022/12",
+      "info3": "Bayerische Motoren Werke AG (BMW) - Project Management Working Student",
+      "time4": "2023/04 - 2023/09",
+      "info4": "Technical University of Munich - Tutor for Introduction to Computer Networking Tutor (DE)",
+      "time5": "2021/10 - 2022/04",
+      "info5": "Technical University of Munich - Tutor for Fundamentals of Programming (EN)",
+      "time6": "2021/04 - 2021/9",
+      "info6": "Technical University of Munich - Tutor for IT and Society (EN)"
+    }
+  },
+  "navigations": {
+    "home": "Home",
+    "projects": "Projects",
+    "contact": "Contact",
+    "language": "Language",
+    "cv": "CV"
+  },
+  "thumbUpBox": {
+    "click": "Click to like",
+    "likeInfo": "received like: "
+  },
+  "contact": {
+    "title": "How to get in touch with me?",
+    "linkedin": "Linkedin",
+    "wechat": "Wechat",
+    "email": "E-Mail address: ",
+    "show-email": "Write me an E-Mail",
+    "hide-email": "Hide E-Mail",
+    "email-info": "Please use the email form below to send me an E-Mail and I will get back to you as soon as possible after receiving your E-Mail.",
+    "email-name-info": "please enter your name",
+    "email-name-placeholder": "John Doe",
+    "email-address-info": "please enter your E-Mail address",
+    "email-address-placeholder": "John{'@'}example.com",
+    "email-content-info": "Please enter your E-Mail content",
+    "email-content-placeholder": "Hello, ...",
+    "email-send": "Send E-Mail",
+    "email-sent": "E-Mail sent",
+    "email-sent-error": "Something went wrong: ",
+    "email-already-sent": "You already sent an E-Mail"
+  },
+  "projects": {
+    "info": "Below are some projects I have worked on.",
+    "academic": "Academic projects",
+    "personal": "Personal project",
+    "industry": "Internship project",
+    "academic-projects-1": {
+      "title": "A Brief Study on the Development of Predictive Process Monitoring",
+      "type": "Seminar Paper",
+      "content": "Predictive process monitoring (PPM) is a powerful tool in business logic, and it is gaining more and more attention from industry and academia. Due to the great interest in this topic, a signiﬁcant number of works are continuously published. Therefore there is an indispensable need to perform a literature review on predictive process monitoring. The main objective of this paper is to research the current situation and algorithmic trend of predictive process monitoring so that potential research gaps can be identiﬁed. The objective is achieved through a systematic literature review aimed at the search period of 2018 - 2022 on the topic of predictive process monitoring. A Multi-step ﬁltering was performed on the 263 retrieved articles, and a ﬁnal list of 32 papers was selected. The data subtracted from the papers are then used to analyze and summarize. The ﬁnal result reveals the current trend and identiﬁes the research gaps in PPM."
+    },
+    "academic-projects-2": {
+      "title": "Improved Auto-generation of Business Process Models from Natural Language Texts of Various Complexity",
+      "type": "bachelor Thesis",
+      "content": "Business Process Modeling Notation (BPMN) is an important tool for providing structuring and visualization of processes. Leveraging such technology can have a positive impact on a company's workflow execution and improvement. However, generating BPMN models requires domain-specific knowledge and is often very time-consuming, whereas adopting an approach that automatically identifies and extracts process models can significantly reduce the time and effort involved in process modeling. With the help of NLP technology, researchers can now develop tools to analyze business process descriptions and develop tools to automatically extract relevant BPMN information. In this article, the author uses Python and the open source library spacy to reconstruct the most advanced BPMN model automatic generation algorithm using the latest technology, thereby improving the recognition accuracy."
+    },
+    "academic-projects-3": {
+      "title": "WS2021/22 Business Analytics and Machine Learning Course at Technical University of Munich - Analytics Cup",
+      "type": "Course Project",
+      "content": "The Analytics Cup is a course project of the Business Analytics and Machine Learning course at the Technical University of Munich in collaboration with Siemens. This project aims to predict the outcome of potential customers' purchasing decisions. We use the decision tree algorithm to train our model. The project is based on Python and has high accuracy."
+    },
+    "industry-projects-1": {
+      "title": "BMW News",
+      "content": "While a student at BMW, I was assigned to develop a news application for internal testing. Its purpose is to test the commercial and technical feasibility of this type of news aggregator. The application is built using Java based on Android and it can be installed not only on Android Automotive but also on regular Android smartphones. The application uses the \"NewsAPI\" service provided by Google to obtain news data from different sources."
+    },
+    "industry-projects-2": {
+      "title": "PL24-upload",
+      "content": "When I was at LexCom Informationsystem, I independently developed a full-stack microservice, which allows users to upload documents related to user orders using their mobile phones and store them in the cloud. This microservice can also interact with other microservices to improve the project experience. The project uses SpringBoot as the backend, and React.js as the frontend."
+    },
+    "personal-projects-1": {
+      "title": "Focus List",
+      "content": "This is a front-end to-do webpage based on Vue.js, which also implements the Pomodoro function. To help users complete tasks better. For details, please visit the following URL: <a href=\"https://shuaiweiyu.github.io/focuslist/\" target=\"https://shuaiweiyu.github.io/focuslist/\"> https://shuaiweiyu .github.io/focuslist/ </a>"
+    }
+  }
+}

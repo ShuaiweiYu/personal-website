@@ -1,9 +1,18 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+
+import ThumbUpBox from "@/components/ThumbUpBox.vue";
+import IntroductionBox from "@/components/IntroductionBox.vue";
+import SkillBox from "@/components/skills/SkillBox.vue";
+import InfoBox from "@/components/info/InfoBox.vue";
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <ThumbUpBox/>
+  <IntroductionBox/>
+  <InfoBox/>
+  <SkillBox/>
 </template>
+
+<style scoped>
+
+</style>

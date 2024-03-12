@@ -1,0 +1,114 @@
+{
+  "introduction": {
+    "content": "你好！ 我叫俞帅威，欢迎来到我的个人网站！ 我来自浙江省绍兴市新昌县，在那里我度过了我人生的前18年。 虽然城市不大，但这是一个非常好玩有意思的地方。 从高中起我就开始憧憬出国留学的生活，我想开阔我的视野，领会一下截然不同的生活。于是，我的旅程就慢慢从那时候展开了。"
+  },
+  "skills": {
+    "title": "我会什么？",
+    "lang": {
+      "title": "语言技能",
+      "chinese": "中文：母语",
+      "english": "英语：熟练运用",
+      "german": "德语：熟练运用"
+    },
+    "it": {
+      "title": "IT技能"
+    },
+    "frameworks": {
+      "title": "编程框架"
+    },
+    "other": {
+      "title": "其他"
+    }
+  },
+  "info": {
+    "studies": {
+      "title": "我的学业",
+      "time1": "2019年1月 - 2020年2月",
+      "info1": "巴伐利亚州立预科 —— 技术课",
+      "time2": "2020年4月 - 2020年9月",
+      "info2": "慕尼黑工业大学 —— MINT导向性学期",
+      "time3": "2020年10月 - 2023年9月",
+      "info3": "慕尼黑工业大学 —— 经济信息学本科",
+      "time4": "2023年10月 - 至今",
+      "info4": "慕尼黑工业大学 —— 经济信息学研究生"
+    },
+    "works": {
+      "title": "我的工作经验",
+      "time1": "2023年10月 - 至今",
+      "info1": "雷斯康（Lexcom）信息技术有限公司 —— 全栈开发学生工",
+      "time2": "2022年6月 - 2023年9月",
+      "info2": "慕尼黑工业大学 —— 计算机系网页学生助理",
+      "time3": "2022年8月 - 2022年12月",
+      "info3": "德国宝马集团（BMW AG） —— 项目管理学生工",
+      "time4": "2022年10月 - 2023年4月",
+      "info4": "慕尼黑工业大学 —— 计算机网络助教",
+      "time5": "2021年10月 - 2022年4月",
+      "info5": "慕尼黑工业大学 —— 计算机导论助教",
+      "time6": "2021年4月 - 2021年9月",
+      "info6": "慕尼黑工业大学 —— IT与社会助教"
+    }
+  },
+  "navigations": {
+    "home": "首页",
+    "projects": "项目",
+    "contact": "联系我",
+    "language": "语言",
+    "cv": "简历"
+  },
+  "thumbUpBox": {
+    "click": "点击来点赞",
+    "likeInfo": "收获点赞数："
+  },
+  "contact": {
+    "title": "如何联系我？",
+    "linkedin": "领英：",
+    "wechat": "微信：",
+    "email": "邮箱：",
+    "show-email": "给我写邮件",
+    "hide-email": "隐藏邮件栏",
+    "email-info": "请使用以下邮件表格来给我发送一封电子邮件，收到您的邮件后我会尽快回复您。",
+    "email-name-info": "请输入您的姓名",
+    "email-name-placeholder": "张三",
+    "email-address-info": "请输入您的邮箱地址",
+    "email-address-placeholder": "zhangsan{'@'}example.com",
+    "email-content-info": "请输入您的邮件内容",
+    "email-content-placeholder": "你好，...",
+    "email-send": "发送邮件",
+    "email-sent": "邮件已发送",
+    "email-sent-error": "您的邮件未能成功发送，错误信息：",
+    "email-already-sent": "您已经发送过邮件了！"
+  },
+  "projects": {
+    "info": "以下是一些我曾经参与过的项目。",
+    "academic": "学术项目",
+    "personal": "个人项目",
+    "industry": "实习项目",
+    "academic-projects-1": {
+      "title": "预测过程监控(PPM) 发展简论",
+      "type": "研讨会论文",
+      "content": "预测流程监控（PPM）是业务逻辑中的强大工具，越来越受到工业界和学术界的关注，从而导致大量的作品不断出版。 因此，对预测过程监测进行文献综述是很有必要的。 本文的主要目的是研究预测过程监控的现状和算法趋势，以便发现潜在的研究差距。 该目标是通过针对 2018 年至 2022 年检索期有关预测过程监控主题的系统文献综述来实现的。 对检索到的 263 篇文章进行多步筛选，最终选出 32 篇论文。 从论文中减去的数据然后用于分析和总结。 最终结果揭示了当前趋势并确定了 PPM 的研究差距。"
+    },
+    "academic-projects-2": {
+      "title": "从各种复杂性的文本自动生成业务流程模型的改进方法",
+      "type": "学士论文",
+      "content": "业务流程建模符号（BPMN）是一个用于提供流程的结构化和可视化的重要的工具。利用此类技术可以对公司的工作流程执行和改进产生积极影响。 然而，生成 BPMN 模型需要特定领域的知识，并且通常非常耗时，而采用自动识别和提取流程模型的方法可以显着减少流程建模的时间和精力。借助 NLP 技术，研究人员现在可以开发分析业务流程描述的工具，并开发自动提取相关 BPMN 信息的工具。在本文中，作者使用Python和开源库spacy利用最新技术重建了最先进的BPMN模型自动生成算法，从而提高了识别精度。"
+    },
+    "academic-projects-3": {
+      "title": "WS2021/22 慕尼黑工业大学商业分析和机器学习课程 - Analytics Cup",
+      "type": "课程竞赛",
+      "content": "Analytics Cup 是慕尼黑工业大学商业分析和机器学习课程与西门子合作的课程项目。 该项目旨在预测潜在客户购买决策的结果。 我们使用决策树算法来训练我们的模型。 该项目基于Python并且拥有较高的准确率。"
+    },
+    "industry-projects-1": {
+      "title": "BMW News",
+      "content": "在宝马当学生期间，我被指派开发一款用于内部测试的新闻应用程序。 其目的是检验该类新闻聚合器的商业以及技术可行性。 该应用程序基于Android使用Java构建，它不仅可以安装在Android Automotive上，也可以安装在普通的Android智能手机上。 该应用程序使用Google提供的“NewsAPI”服务来从不同来源获取新闻数据。"
+    },
+    "industry-projects-2": {
+      "title": "PL24-upload",
+      "content": "我在LexCom Informationsystem公司期间，独立开发了一款全栈微服务，其用途是用户可以使用手机上传与用户订单相关的文档并储存在云端。该微服务同时可以与其他微服务互动，从而改进项目的使用体验。该项目使用SpringBoot作为后端，以及React.js 作为前端。"
+    },
+    "personal-projects-1": {
+      "title": "待办事项番茄钟",
+      "content": "这是一个基于Vue.js的前段待办事项网页，同时还实现了番茄钟功能。以帮助用户更好的完成任务。具体请访问以下网址：<a href=\"https://shuaiweiyu.github.io/focuslist/\" target=\"https://shuaiweiyu.github.io/focuslist/\"> https://shuaiweiyu.github.io/focuslist/ </a>"
+    }
+  }
+}
